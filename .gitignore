@@ -1,0 +1,8 @@
+.surgeignore
+CNAME
+build-html.mjs
+build-svg.mjs
+index.dev.html
+index.dev.svg
+node_modules/
+package-lock.json
